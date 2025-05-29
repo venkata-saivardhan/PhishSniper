@@ -14,7 +14,7 @@ import os  # <-- Added import here
 
 init(autoreset=True)
 
-VT_API_KEY = "dd98c42aace79e26ad31ff826c0e6b2a5463c186bc7357bb325651f9764f7ae2"  # Optional: Add your VirusTotal API key here
+VT_API_KEY = ""  # Optional: Add your VirusTotal API key here
 
 with open("suspicious_keywords.json") as f:
     phishing_keywords = json.load(f)["keywords"]
