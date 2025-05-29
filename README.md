@@ -42,7 +42,7 @@ To enable VirusTotal scanning:
 2.Export it as an environment variable:
 export VT_API_KEY="your_api_key_here"
 
-🚀 Usage
+🚀 Usage : 
 1. Scan a Single URL:
    
 python3 phishsniper.py -u "http://example.com"
