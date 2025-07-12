@@ -19,10 +19,14 @@ PhishSniper is a powerful and simple command-line tool built for cybersecurity p
  📁 Project Structure
 
 phishsniper/
-├── phishsniper.py # Main script
-├── suspicious_keywords.json # List of phishing terms
-├── urls.txt # For batch URL scanning
-└── reports/ # Stores JSON scan reports
+├── 
+phishsniper.py # Main script
+├── 
+suspicious_keywords.json # List of phishing terms
+├── 
+urls.txt # For batch URL scanning
+└── 
+reports/ # Stores JSON scan reports
 
 
  🧰 Requirements
